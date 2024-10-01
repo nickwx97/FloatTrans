@@ -28,7 +28,7 @@ The Floating Transparent Image Overlay is a Python-based tool that allows you to
 
 ## Usage
 
-- Download latest release and place EXE in repository base directory.
+- Download latest [release](https://github.com/nickwx97/FloatTrans/releases) and place EXE in repository base directory.
 
 - Modify the config.ini file to specify the image path, transparency settings, and hotkey to close the overlay.
 
